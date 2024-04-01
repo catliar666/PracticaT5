@@ -78,7 +78,7 @@ A continuación seguimos la ruta de carpetas hasta llegar al ejecutable Practica
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224165061501648917/image.png?ex=661c7f8e&is=660a0a8e&hm=6e9f281ccb1ad348e9a2812457dc788465eb8d3539d1aa77c5858f4b2decdfff&)
 
-###### 5. Ejecutar el programa
+###### 4. Ejecutar el programa
 
 Si a la hora de ejecutar el programa se nos abre una ventana de emergencia indicandonos que impide el inicio de este por protección, simplemente le damos al botón "Ejecutar de todas formas" y ya tendremos listo nuestro programa
 
