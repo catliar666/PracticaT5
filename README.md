@@ -64,7 +64,7 @@ Para descargar el programa debemos seguir los siguientes pasos:
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224164859105513582/image.png?ex=661c7f5e&is=660a0a5e&hm=2e498576cf716eeb55a4c310eb8a55b1a4b517a128cb1aebcf845ff27aeb2923&)
 
-###### 4. Ruta
+###### 3. Ruta
 
 A continuación seguimos la ruta de carpetas hasta llegar al ejecutable PracticaT5-main\PracticaT5-main\out\artifacts\Practica5_jar\Practica5.bat
 
