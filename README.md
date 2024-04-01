@@ -85,3 +85,52 @@ Si a la hora de ejecutar el programa se nos abre una ventana de emergencia indic
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224165121056706650/image.png?ex=661c7f9c&is=660a0a9c&hm=d5eeaabbff02ccd03d1332d6b8f9980ad8c2af20d24e09be25c9bd3da82e0f1a&)
 
 
+## Funcionamiento
+
+### Inicio
+Nuestro programa iniciará preguntandonos si queremos que haya información dentro de este, tenemos dos opciones para elegir "Si" o "No" 
+La opción "Si" añadirá información de usuarios, conductores y envíos y nos mostrará la informacion añadida
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224122860612620348/image.png?ex=661c5841&is=6609e341&hm=705ac055f678f3eb2f6089539ae1ddb5d91c97781eaca27aa74039cf33c34f03&)
+
+Mientras que la opción "No" inicia el programa vacío, sin ningún usuario, solamente con el admin por defecto.
+
+### Menú principal
+Una vez elegida la opción que deseamos, nos aparecerá el menú principal que consta de 3 opciones
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224122943399792711/image.png?ex=661c5854&is=6609e354&hm=2a407a75d12ebb2b9690322bbfff73dcecd3aeee5b8e8f949412922abc5d07d8&)
+
+#### 1. Login
+Está opción nos deja iniciar sesión con una cuenta ya existente, podemos iniciar de esta forma tanto como un usuario normal, un conductor o un admin, el programa se encargará de comprobar qué tipo de cuenta está iniciando sesión.
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224180447236460634/image.png?ex=661c8de2&is=660a18e2&hm=70be34d72b6ef3a1f27c10e54e78e38182cf2a84c40bfd77926892a54068341a&)
+
+### 2. Registro
+Esta opción nos dejará registrarnos como un usuario normal, comprobando si el email está introducido, si ya existe un email en las creedenciales de la app está nos indicará que ya está introducido y no nos dejará continuar con la creación de la cuenta, volviendo al menú principal automáticamente
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123211588042842/image.png?ex=661c5894&is=6609e394&hm=02e2d939dbf890da766d45d973b3df9a5f3478ce78b859d6aef09e7c787ce420&)
+
+En cambio, si el email introducido no consta en los datos de la app, comenzará con la creación de la cuenta pidiendo todos los datos necesarios
+
+![](https://media.discordapp.net/attachments/1163537549126545470/1224123501300940931/image.png?ex=661c58d9&is=6609e3d9&hm=88bcb822046c87901d4809ce632fcb29dd582367ba54688a7ab1036cdeb32924&=&format=webp&quality=lossless)
+
+Finalizando la creación de la misma dandonos la opción de validar o no la cuenta, según la opción que escoga el usuario, obtendrá una respuesta u otra.
+Si la opción escogida es "Más tarde" la cuenta quedará en modo "Espera de validación"
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224124499658805369/image.png?ex=661c59c7&is=6609e4c7&hm=08760a9995242d986e3626547ec3e25c57a07149c3d82df78c66cfc1752a2d00&)
+
+Teniendo que validar la cuenta en el proximo inicio de sesión
+En cambio si la respuesta es "Verificar ahora" se le pedirá el número enviado por correo, una vez introducido la cuenta queda validada para siempre, cualquier cambio en el email o información de la misma no afectará en nada a la validación.
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123590157402334/image.png?ex=661c58ef&is=6609e3ef&hm=3184d46fd1aa6077ccc6992fa89f7a7bfc34222e87dc42a61795bfc4eb4e4fc8&)
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123819908796616/image.png?ex=661c5925&is=6609e425&hm=cbde854c7c1126a96c4a2d4b038388f22d99e422cce63222ce35d31891a01919&)
+
+Una vez introducido el código la cuenta iniciará sesión automáticamente
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123948783108219/image.png?ex=661c5944&is=6609e444&hm=6ede8b5412a573b002df4bbf6da776382dd37a6c066a0e42ce65c5c46516e960&)
+
+### 3. Seguimiento de un envío con el número de referencia
+Esta opción es muy sencilla, nos pedirá el número de seguimiento del envío a buscar y si lo encuentra, nos mostrará una información escasa de este
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123059120898109/image.png?ex=661c5870&is=6609e370&hm=e2af81e9d47c10b641792d1d46fe8c86dd1178a730c92d94a88b8f9975a05c61&)
