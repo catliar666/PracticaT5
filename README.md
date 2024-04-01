@@ -105,6 +105,174 @@ Está opción nos deja iniciar sesión con una cuenta ya existente, podemos inic
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224180447236460634/image.png?ex=661c8de2&is=660a18e2&hm=70be34d72b6ef3a1f27c10e54e78e38182cf2a84c40bfd77926892a54068341a&)
 
+##### 1.1 Inicio de sesión con usuario normal
+Cuando iniciamos sesión con una cuenta de usuario normal nos aparecerá este menú
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123948783108219/image.png?ex=661c5944&is=6609e444&hm=6ede8b5412a573b002df4bbf6da776382dd37a6c066a0e42ce65c5c46516e960&)
+
+Como vemos consta de una barra de notificacion que nos indica los paquetes que tenemos pendiente de entrega y 7 opciones que veremos en profundidad más adelante
+###### 1.1.1 Realizar un envío
+Está opción nos permite enviar un paquete a un destinatario, tanto si es usuario de FernanPaaq como si no.
+Si el destinatario es usuario de la app, a la hora de introducir el email nos indicará que lo ha encontrado y el paquete se creará con la información de ese usuario, también nos pedirá si queremos que ese usuario sea avisado de que usted le va a mandar un paquete
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224124073651736627/image.png?ex=661c5962&is=6609e462&hm=6754df34d1d13af9806f6ac32a6ddecf10fe305f583a0b61ddba6ed01ded2e63&)
+
+Si por el contrario, el destinatario no está registrado en FernanPaaq, el programa procederá a pedirle toda la información necesaria para crear el envío
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224129109051838515/image.png?ex=661c5e12&is=6609e912&hm=653e546a51c8d253baae9163cb3c7d4b1d7f2a1676bd0224f142ab3ff111cadf&)
+
+Tendremos opcion también ha avisarlo con un email y nos mostrará un resumen de la información del envío y el coste del mismo, el coste se basa en, si hay conductores disponibles para la entrega en la zona indicada, el coste bajará de precio a 3,52€ en cambio si no encuentra nigún conductor para esa zona, el coste ascendera a 10,2€
+
+Si hemos escogido la opción de avisar al usuario mediante un email, le llegará este correo
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224128740930359296/Screenshot_20240401_005010_Gmail.jpg?ex=661c5dbb&is=6609e8bb&hm=2d4f7b6e26934dfd8421cc7ba329b725a5d95509a409e462214736500e5f8192&)
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224128748761387150/Screenshot_20240401_005018_Gmail.jpg?ex=661c5dbc&is=6609e8bc&hm=3c3be091a84f33585b17348db3ee251fcd75d6aba0246b3ec7714680928280e8&)
+
+###### 1.1.2 Muestra de información sobre los envíos que me han realizado
+Esta opción hace un pequeño resumen de los envios tanto entregamos como pendientes de entrega, los ordena de más recientes a más antiguos, si el usuario no tiene ningún envío para mostrar el programa lo indicará
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127194729807943/image.png?ex=661c5c4a&is=6609e74a&hm=3e6d254df8f73942dd1487b24cda08dad532b371a55923e4c024fa33504efda7&)
+
+Si el usuario tiene envíos registrados el programa se lo mostrará así
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224186618026655864/image.png?ex=661c93a2&is=660a1ea2&hm=d50c6ced06be003b36ec38e1fee6a097e3dd95268238e5b38f2ee54c5ddf5eb8&)
+
+###### 1.1.3 Modificar mis datos de entrega para un envío
+Está opción muestra todos los envíos que tiene disponibles el usuario, y que todavia no han sido entregados, al usuario le damos la opción de elegir el envío según el número de referencia y lo dejamos cambiar la dirección de este por una nueva, si la opción no encuentra envios para mostrar aparecerá así.
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127260278390794/image.png?ex=661c5c5a&is=6609e75a&hm=9bebc121e26a95b95249b9e72cab39c4fad859f1e81d52654c461058a71d8827&)
+
+En cambio, si el usuario consta de envíos les mostrará todos en orden de más reciente a más antiguo
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224187566702460959/image.png?ex=661c9484&is=660a1f84&hm=148503ca718107ac4ff1e4c610a990d1aa0e2caf32cae7ac65909adb806c581c&)
+
+Una vez elegido el envío, procederá a preguntarnos la nueva dirección
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224187862552019005/image.png?ex=661c94ca&is=660a1fca&hm=f2942f5aa48e92538a6f29407c5cc3701af9ddb3c19fa8472388d2fe522daeaa&)
+
+Y ya estarían los cambios realizados
+
+###### 1.1.4 Muestra de información de los envíos que yo he realizado.
+Esta opción nos muestra un resumen de todos los envíos que he realizado, el estado de los mismos, el destinatario y las fechas tanto de expedición como de entrega aproximada
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224188105746288731/image.png?ex=661c9504&is=660a2004&hm=da382b4669c92fdf1f2bc41ace8abc1c8082a730f6b6349b5d7ee26b02bdc119&)
+
+Si por el contrario el usuario no ha realizado ningún envío, la opción se mostrará así
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127323574501406/image.png?ex=661c5c69&is=6609e769&hm=7f8c59007f4495cbee73be9f12ce88dd03cd68545b8f2d9fbbcdd54d46206f50&)
+
+###### 1.1.5 Ver mi perfil.
+Esta opción nos hace un breve resumen de nuestra información de perfil
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127381351174255/image.png?ex=661c5c76&is=6609e776&hm=c116eda8491029c8cbfb2266f91bdbf9db62bae02de7ed3c4b8c7baf8b733f73&)
+
+###### 1.1.6 Modificar mis datos.
+Esta opción nos abre un menú y nos indica todas las posibilidades ha cambiar de nuestra cuenta, consta de 7 opciones
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127450443940010/image.png?ex=661c5c87&is=6609e787&hm=a83b826f65c22eee2ceea81055bd4c5841a26496c4e6ba851a28f2c5ccbea138&)
+
+- Opción 1: Dirección de entrega
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127575404711977/image.png?ex=661c5ca5&is=6609e7a5&hm=9568b0fd0ba9d325c50fc12f074a024bcfae46abef461917b9c88a08e6133388&)
+
+- Opción 2: Número de teléfono
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127645227155577/image.png?ex=661c5cb5&is=6609e7b5&hm=7ade938a2e3b2d7ed1f6c64d0d7acbe347c0a5c5fe93b433e1069b49091f2b1b&)
+
+- Opción 3: Nombre y apellidos
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127711539105842/image.png?ex=661c5cc5&is=6609e7c5&hm=89f3bf36d06e9dd7570f44fe1e0c6f016ddb734ba29f752dd0e31e220cd5c835&)
+
+- Opción 4: Contraseña
+
+ ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127811099295954/image.png?ex=661c5cdd&is=6609e7dd&hm=ea990edc158e91bbdf51320505d137afd9a6f8a47a3467c3ec18fac32195b4c5&)
+
+- Opción 5: Activar o desactivar suscripción de notificaciones.
+  Las notificaciones en los usuarios por defecto están activadas
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224127911108280483/image.png?ex=661c5cf5&is=6609e7f5&hm=37570e0ae61c6b7859b1b72e69181a3c11eef1563cf0bfe75dd956f54e5d9af0&)
+
+- Opcion 6: Email
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224128012665229352/image.png?ex=661c5d0d&is=6609e80d&hm=3c94bf6efaf0708ab6f17df8e0b5f43015cfb090a987200a7af9079407f06119&)
+
+Ahora comprobamos que todos los cambios realizados anteriormente en las opciones se hayan realizado correctamente
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224128219243090021/image.png?ex=661c5d3e&is=6609e83e&hm=22a6fc4b385a7a7ce26d606cdd2a01342b94717cc84b1349bdc0d8646a80b2aa&)
+
+#### 1.2 Inicio de sesión con usuario conductor
+Al iniciar sesión con una cuenta de conductor el menú cambia y las opciones también
+
+![]()
+
+#### 1.3 Inicio de sesión con un usuario administrador
+El menú de un administrador debe de ser lo más detallado posible, por lo tanto, nuestro menú cumple con todas sus funciones, consta de 8 opciones y 6 barras de notificaciones que nos indican toda la informacion de nuestro programa
+
+**Para iniciar sesión, será con las creedenciales email: admin@gmail.com, contraseña: 123pipo***
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134525689397348/image.png?ex=661c631e&is=6609ee1e&hm=2e8e7283d6f5748f2c870b0573dbc4e80a79b988162d5be2941f4909b9d9c76e&)
+
+###### 1.3.1 Ver los envíos sin asignar
+Esta opción hace un resumen de todos los envios sin asignar, está ordenado desde el más antiguo hasta el más reciente, para que así el administrador vaya viendo qué envío tiene más urgencia de entrega
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134601619017849/image.png?ex=661c6330&is=6609ee30&hm=54f5432815f1f90c4036c651f3b6cf276009ae8b96ba9df141ede7894c5c3044&)
+
+###### 1.3.2 Asignar un envío a un conductor
+Primero muestra todos los envíos que quedan por asignar, se deberá seleccionar el envío según el número de referencia indicado, una vez seleccionado, aparecerán los conductores, el admin podrá escoger el que más guste, según sus zonas de entrega y automáticamente el envío será asignado al conductor
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224194046621253643/image.png?ex=661c9a8d&is=660a258d&hm=420788ae5eccdfd3886b5bb8fa6e198d09146f0bb5e26f06d393dee7103cd4f1&)
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224194166548860938/image.png?ex=661c9aa9&is=660a25a9&hm=f6436bfceffe8c37677e85e8e28fb430436926c9872609f045312605b179d1dc&)
+
+Una vez asignado el envío, se le avisará al conductor mediante telegram
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224146591112495234/image0.jpg?ex=661c6e5a&is=6609f95a&hm=d9776c03afa44aee4ef32807d3a3562d442970cfcb0e7d55c60c0c06aa9d6fed&)
+
+
+###### 1.3.3 Ver un resumen de los usuarios registrados
+Esta opción hace un resumen de todos los usuarios que se han registrado, enseña toda la información de las cuentas, cuantos envios tienen pendientes de entrega, si ha validado la cuenta, etc...
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134681864306698/image.png?ex=661c6343&is=6609ee43&hm=027f5ef6f8c51b65758a28c2c653ff5c4e1dfff40f8671fe950b087e82766322&)
+
+Una vez que ha mostrado todos los usuarios nos da la opción de buscar uno en concreto y de nos pregunta, de qué manera deseamos buscarlo
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134755205775482/image.png?ex=661c6354&is=6609ee54&hm=f80797ba15d282138998e00f33e10d2d08110f2fcaf04afa17a698385f03fea0&)
+
+- Opcion 1: Según el ID de un envío
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134990749503528/image.png?ex=661c638d&is=6609ee8d&hm=88e64c82f7f9a7aefdddafdacea5890c24d9ee3a5af476d7cda7dc01bc94da0f&)
+
+- Opcion 2: Email
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135067404599296/image.png?ex=661c639f&is=6609ee9f&hm=a26a638560d9b9ecb09b5fc6907ad2f36c19ded5726fd2ab191fdc755062d09b&)
+
+- Opcion 3: Número de telefono
+
+  ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135130600308796/image.png?ex=661c63ae&is=6609eeae&hm=380849e359f78e5ecd20583148436bec5756911af620410282ac3d7ca43c4484&)
+
+###### 1.3.4 Ver el resumen de los conductores registrados
+Esta opción es muy sencilla, muestra un resumen completo al administrador sobre toda la flota de conductores 
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135229112062013/image.png?ex=661c63c5&is=6609eec5&hm=fef14be2f60fa031427d9907e973482a2bb95ea0f1d7918aba7b55a74da285dd&)
+
+###### 1.3.5 Ver mi perfil
+Muestra un resumen de la cuenta del admin, con toda la información disponble de este
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135311173353483/image.png?ex=661c63d9&is=6609eed9&hm=80d9811a89ff1516dd5527b41f4f81009f694b0a77706773fd65560b78278568&)
+
+###### 1.3.6 Modificar mis datos
+Al seleccionar esa opción se nos abrirá un menú con 4 opciones, antes vistas tanto en conductor como en usuario normal
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135501485707304/image.png?ex=661c6406&is=6609ef06&hm=24bc501923203e5fd3dc116c99a6a5e2046ceea1ad37d06fb2d8e08dcaf51a5a&)
+
+###### 1.3.7 Crear cuenta de conductor
+Esta opción es fácil y sencilla, permite añadir un trabajador con sus datos, da de alta la cuenta solo pidiendo el email, nombre y contraseña
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135698580377730/image.png?ex=661c6435&is=6609ef35&hm=af1e279fdb5802c0317def94a856ad627ce5361b2bcdb84710c7ec9c628447dd&)
+
+Nos avisa de que las zonas de entrega debe añadirlas el conductor a mano, ya que, cada conductor sabe por cuales zonas será mejor para sus rutas
+
 ### 2. Registro
 Esta opción nos dejará registrarnos como un usuario normal, comprobando si el email está introducido, si ya existe un email en las creedenciales de la app está nos indicará que ya está introducido y no nos dejará continuar con la creación de la cuenta, volviendo al menú principal automáticamente
 
