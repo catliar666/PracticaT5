@@ -202,11 +202,60 @@ Ahora comprobamos que todos los cambios realizados anteriormente en las opciones
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224128219243090021/image.png?ex=661c5d3e&is=6609e83e&hm=22a6fc4b385a7a7ce26d606cdd2a01342b94717cc84b1349bdc0d8646a80b2aa&)
 
 #### 1.2 Inicio de sesión con usuario conductor
-Al iniciar sesión con una cuenta de conductor el menú cambia y las opciones también
 
-![]()
+Al iniciar sesión con una cuenta de conductor el menú cambia y las opciones también, este menú consta de 7 opciones, las cuales veremos a continuación
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135801978491032/image.png?ex=661c644e&is=6609ef4e&hm=2504ea1683337de902a998f061e0e3b1b40a02021e6aa8358ea7ac52a16aa55c&)
+
+###### 1.2.1 Ver la información de los envíos que debo entregar
+
+Hace un breve resumen de los envios asignados al conductor y que, todavia no ha entregado
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135850766373004/image.png?ex=661c645a&is=6609ef5a&hm=0522e72ba9d53e4be890ccf8e6547fb8fcc5eeb7ffdbfd89423bb0b3893e8b68&)
+
+###### 1.2.2 Cambia el estado de un envío
+
+Como indica esta opción, cambia el estado de un envío y le llega un email (si tiene las notificaciones activadas) al usuario correspondiente de ese envío. Para cambiar el estado, debe seleccionar el envío según el número de referencia y luego, con un menú de opciones, indicar en qué estado se encuentra ahora el envío
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135929699106857/image.png?ex=661c646c&is=6609ef6c&hm=d2b37dd8ff82147dbc05e1e1bef0371517b7025945deb07ff82c9a931df62e89&)
+
+Cuando el paquete cambia de estado, los correos que le llegan a los usuarios son estos 
+
+![](https://media.discordapp.net/attachments/1163537549126545470/1224197718097002576/Screenshot_20240401_052422_Gmail.jpg?ex=661c9df8&is=660a28f8&hm=4ee8468780f8f86bc46055a731277e19a492c07e3258ea042b6a25dd001b79fe&=&format=webp&width=302&height=671)
+
+![](https://media.discordapp.net/attachments/1163537549126545470/1224197707141353594/image0.jpg?ex=661c9df5&is=660a28f5&hm=cfebe8fd2f830d4e2571c48bf286749d8abc46eca503d62a1931f765e946324a&=&format=webp&width=302&height=671)
+
+###### 1.2.3 Ver el histórico de mis paquetes entregados
+
+Esta opción hace un breve resumen de todos los paquetes que ese conductor lleva entregados, se ordenan mediante la fecha, del más reciente al más antiguo
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224140450785394808/image.png?ex=661c68a2&is=6609f3a2&hm=8303ddef4acc9d462cab10e1eca3a1a85799cbe5d5082675b567e19f562149b1&)
+
+###### 1.2.4 Añade una zona de entrega a mi perfil
+
+Esta opción, deja al conductor añadir una zona de entrega nueva, primero comprueba si la introducida por teclado ya existe, si no existe la añade sin problema.
+Una vez añadida la nueva zona, a partir de ahora, todos los envios que se creen nuevos que contengan ese codigo postal, se añadirán automáticamente al conductor
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224140518410289222/image.png?ex=661c68b3&is=6609f3b3&hm=abc9d25293a8feaca5f67b0f391a1c867e828fc7448288d3bd9e55e2785b0c1b&)
+
+###### 1.2.5 Ver mi perfil
+
+Hace un breve resumen de toda la información de la cuenta del conductor
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224140643618525199/image.png?ex=661c68d0&is=6609f3d0&hm=4fffb46cffb1f2d50c9a4ef5b2c2a08b1b2f34a7c0a9751584399d79ff006c47&)
+
+###### 1.2.6 Modificar mis datos
+
+Esta opción, es igual que la del usuario, nos aparecerá un menú con varias opciones y según vamos seleccionando, nos irá dejando cambiar cada una de la información
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224140883889487923/image.png?ex=661c690a&is=6609f40a&hm=9c7acc065d089b48d9abae39a0078ae540c43913f01ff7b7742f44d53312a436&)
+
+Una vez cambiada la información que nos ha hecho falta, comprobamos que todo lo haya cambiado bien 
+
+![](https://cdn.discordapp.com/attachments/1163537549126545470/1224140935563051069/image.png?ex=661c6916&is=6609f416&hm=37b4aec5e68d5d5d36faec9fea55bc27d2cbe43cee98a85cbebf46c91904c851&)
 
 #### 1.3 Inicio de sesión con un usuario administrador
+
 El menú de un administrador debe de ser lo más detallado posible, por lo tanto, nuestro menú cumple con todas sus funciones, consta de 8 opciones y 6 barras de notificaciones que nos indican toda la informacion de nuestro programa
 
 **Para iniciar sesión, será con las creedenciales email: admin@gmail.com, contraseña: 123pipo***
@@ -214,11 +263,13 @@ El menú de un administrador debe de ser lo más detallado posible, por lo tanto
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134525689397348/image.png?ex=661c631e&is=6609ee1e&hm=2e8e7283d6f5748f2c870b0573dbc4e80a79b988162d5be2941f4909b9d9c76e&)
 
 ###### 1.3.1 Ver los envíos sin asignar
+
 Esta opción hace un resumen de todos los envios sin asignar, está ordenado desde el más antiguo hasta el más reciente, para que así el administrador vaya viendo qué envío tiene más urgencia de entrega
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134601619017849/image.png?ex=661c6330&is=6609ee30&hm=54f5432815f1f90c4036c651f3b6cf276009ae8b96ba9df141ede7894c5c3044&)
 
 ###### 1.3.2 Asignar un envío a un conductor
+
 Primero muestra todos los envíos que quedan por asignar, se deberá seleccionar el envío según el número de referencia indicado, una vez seleccionado, aparecerán los conductores, el admin podrá escoger el que más guste, según sus zonas de entrega y automáticamente el envío será asignado al conductor
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224194046621253643/image.png?ex=661c9a8d&is=660a258d&hm=420788ae5eccdfd3886b5bb8fa6e198d09146f0bb5e26f06d393dee7103cd4f1&)
@@ -231,6 +282,7 @@ Una vez asignado el envío, se le avisará al conductor mediante telegram
 
 
 ###### 1.3.3 Ver un resumen de los usuarios registrados
+
 Esta opción hace un resumen de todos los usuarios que se han registrado, enseña toda la información de las cuentas, cuantos envios tienen pendientes de entrega, si ha validado la cuenta, etc...
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224134681864306698/image.png?ex=661c6343&is=6609ee43&hm=027f5ef6f8c51b65758a28c2c653ff5c4e1dfff40f8671fe950b087e82766322&)
@@ -252,21 +304,25 @@ Una vez que ha mostrado todos los usuarios nos da la opción de buscar uno en co
   ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135130600308796/image.png?ex=661c63ae&is=6609eeae&hm=380849e359f78e5ecd20583148436bec5756911af620410282ac3d7ca43c4484&)
 
 ###### 1.3.4 Ver el resumen de los conductores registrados
+
 Esta opción es muy sencilla, muestra un resumen completo al administrador sobre toda la flota de conductores 
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135229112062013/image.png?ex=661c63c5&is=6609eec5&hm=fef14be2f60fa031427d9907e973482a2bb95ea0f1d7918aba7b55a74da285dd&)
 
 ###### 1.3.5 Ver mi perfil
+
 Muestra un resumen de la cuenta del admin, con toda la información disponble de este
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135311173353483/image.png?ex=661c63d9&is=6609eed9&hm=80d9811a89ff1516dd5527b41f4f81009f694b0a77706773fd65560b78278568&)
 
 ###### 1.3.6 Modificar mis datos
+
 Al seleccionar esa opción se nos abrirá un menú con 4 opciones, antes vistas tanto en conductor como en usuario normal
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135501485707304/image.png?ex=661c6406&is=6609ef06&hm=24bc501923203e5fd3dc116c99a6a5e2046ceea1ad37d06fb2d8e08dcaf51a5a&)
 
 ###### 1.3.7 Crear cuenta de conductor
+
 Esta opción es fácil y sencilla, permite añadir un trabajador con sus datos, da de alta la cuenta solo pidiendo el email, nombre y contraseña
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224135698580377730/image.png?ex=661c6435&is=6609ef35&hm=af1e279fdb5802c0317def94a856ad627ce5361b2bcdb84710c7ec9c628447dd&)
@@ -274,6 +330,7 @@ Esta opción es fácil y sencilla, permite añadir un trabajador con sus datos, 
 Nos avisa de que las zonas de entrega debe añadirlas el conductor a mano, ya que, cada conductor sabe por cuales zonas será mejor para sus rutas
 
 ### 2. Registro
+
 Esta opción nos dejará registrarnos como un usuario normal, comprobando si el email está introducido, si ya existe un email en las creedenciales de la app está nos indicará que ya está introducido y no nos dejará continuar con la creación de la cuenta, volviendo al menú principal automáticamente
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123211588042842/image.png?ex=661c5894&is=6609e394&hm=02e2d939dbf890da766d45d973b3df9a5f3478ce78b859d6aef09e7c787ce420&)
@@ -299,6 +356,7 @@ Una vez introducido el código la cuenta iniciará sesión automáticamente
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123948783108219/image.png?ex=661c5944&is=6609e444&hm=6ede8b5412a573b002df4bbf6da776382dd37a6c066a0e42ce65c5c46516e960&)
 
 ### 3. Seguimiento de un envío con el número de referencia
+
 Esta opción es muy sencilla, nos pedirá el número de seguimiento del envío a buscar y si lo encuentra, nos mostrará una información escasa de este
 
 ![](https://cdn.discordapp.com/attachments/1163537549126545470/1224123059120898109/image.png?ex=661c5870&is=6609e370&hm=e2af81e9d47c10b641792d1d46fe8c86dd1178a730c92d94a88b8f9975a05c61&)
